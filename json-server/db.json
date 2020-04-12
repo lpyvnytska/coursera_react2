@@ -201,6 +201,22 @@
       "comment": "It's your birthday, we're gonna party!",
       "author": "25 Cent",
       "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "dishId": 0,
+      "rating": "5",
+      "author": "aaaa",
+      "comment": "The best",
+      "date": "2020-04-12T15:58:06.744Z",
+      "id": 20
+    },
+    {
+      "dishId": 0,
+      "rating": "3",
+      "author": "fdgfg",
+      "comment": "fdgdfgdfg",
+      "date": "2020-04-12T16:00:17.671Z",
+      "id": 21
     }
   ],
   "promotions": [
@@ -263,6 +279,43 @@
       "message": "afadsfds",
       "date": "2017-12-04T09:41:49.890Z",
       "id": 1
+    },
+    {
+      "firstname": {
+        "firstname": "vxcvxc",
+        "lastname": "xcvxc",
+        "telnum": "34234",
+        "email": "xc@ds.hf",
+        "agree": false,
+        "contactType": "Email",
+        "message": "czxvzxcvxczv xzv vxz cxvvxzcvzx fcxvxczv"
+      },
+      "date": "2020-04-12T16:25:07.715Z",
+      "id": 2
+    },
+    {
+      "firstname": {
+        "firstname": "vcb",
+        "lastname": "cvbcvb",
+        "telnum": "45345",
+        "email": "de@fr.df",
+        "agree": false,
+        "contactType": "Tel.",
+        "message": "fsdbhgdv bcxvb"
+      },
+      "date": "2020-04-12T16:28:01.053Z",
+      "id": 3
+    },
+    {
+      "firstname": "ffff",
+      "lastname": "fff",
+      "telnum": "55555",
+      "email": "ff@ff.ff",
+      "agree": true,
+      "contactType": "Email",
+      "message": "ffff f ff",
+      "date": "2020-04-12T16:45:33.143Z",
+      "id": 4
     }
   ]
 }
