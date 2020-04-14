@@ -244,6 +244,7 @@ export const postFeedback = (
       }
     )
     .then((response) => response.json())
+    .then((feedback) => alert(JSON.stringify(feedback)))
     .catch((error) => {
       console.log('feedback', error.message);
       alert('Your feedback could not be sended\nError: ' + error.message);
